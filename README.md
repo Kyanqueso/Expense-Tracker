@@ -1,6 +1,8 @@
 **Personal Expense Tracker and Forecasting Tool**
 
-Project Streamlit Link: 
+**PLS USE DARK MODE!!!
+
+Project Streamlit Link: https://kcqueso-expense-tracker.streamlit.app/
 
 This project is an interactive Streamlit application that allows users to upload personal expense data in CSV format, analyze trends, detect anomalies, and forecast future spending using machine learning models.
 
